@@ -1,0 +1,26 @@
+
+.gridder {
+    list-style-type: none
+}
+
+.gridder-list {
+    display: inline-block;
+    vertical-align: top
+}
+
+.gridder-show {
+    display: block;
+    float: left;
+    position: relative;
+    width:96%;
+}
+
+.gridder-content {
+    display: none
+}
+
+a.gridder-nav {
+    display: none;
+}
+
+/*# sourceMappingURL=demo.css.map */
